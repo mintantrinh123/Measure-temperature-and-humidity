@@ -1,0 +1,145 @@
+E:\File Of LaoF\3.TERM_2021-2022\HK1\Doluong_vaDieukhienbangmaytinh\BTL1\NVL_BTLDoluong\NVL_BTLDoluong\bin\Debug\NVL_BTLDoluong.exe.config
+E:\File Of LaoF\3.TERM_2021-2022\HK1\Doluong_vaDieukhienbangmaytinh\BTL1\NVL_BTLDoluong\NVL_BTLDoluong\bin\Debug\NVL_BTLDoluong.exe
+E:\File Of LaoF\3.TERM_2021-2022\HK1\Doluong_vaDieukhienbangmaytinh\BTL1\NVL_BTLDoluong\NVL_BTLDoluong\bin\Debug\NVL_BTLDoluong.pdb
+E:\File Of LaoF\3.TERM_2021-2022\HK1\Doluong_vaDieukhienbangmaytinh\BTL1\NVL_BTLDoluong\NVL_BTLDoluong\obj\Debug\NVL_BTLDoluong.csproj.AssemblyReference.cache
+E:\File Of LaoF\3.TERM_2021-2022\HK1\Doluong_vaDieukhienbangmaytinh\BTL1\NVL_BTLDoluong\NVL_BTLDoluong\obj\Debug\NVL_BTLDoluong.Form1.resources
+E:\File Of LaoF\3.TERM_2021-2022\HK1\Doluong_vaDieukhienbangmaytinh\BTL1\NVL_BTLDoluong\NVL_BTLDoluong\obj\Debug\NVL_BTLDoluong.Properties.Resources.resources
+E:\File Of LaoF\3.TERM_2021-2022\HK1\Doluong_vaDieukhienbangmaytinh\BTL1\NVL_BTLDoluong\NVL_BTLDoluong\obj\Debug\NVL_BTLDoluong.csproj.GenerateResource.cache
+E:\File Of LaoF\3.TERM_2021-2022\HK1\Doluong_vaDieukhienbangmaytinh\BTL1\NVL_BTLDoluong\NVL_BTLDoluong\obj\Debug\NVL_BTLDoluong.csproj.CoreCompileInputs.cache
+E:\File Of LaoF\3.TERM_2021-2022\HK1\Doluong_vaDieukhienbangmaytinh\BTL1\NVL_BTLDoluong\NVL_BTLDoluong\obj\Debug\NVL_BTLDoluong.exe
+E:\File Of LaoF\3.TERM_2021-2022\HK1\Doluong_vaDieukhienbangmaytinh\BTL1\NVL_BTLDoluong\NVL_BTLDoluong\obj\Debug\NVL_BTLDoluong.pdb
+E:\File Of LaoF\3.TERM_2021-2022\HK1\Doluong_vaDieukhienbangmaytinh\BTL1\NVL_BTLDoluong\NVL_BTLDoluong\bin\Debug\CircularProgressBar.dll
+E:\File Of LaoF\3.TERM_2021-2022\HK1\Doluong_vaDieukhienbangmaytinh\BTL1\NVL_BTLDoluong\NVL_BTLDoluong\bin\Debug\WinFormAnimation.dll
+E:\File Of LaoF\3.TERM_2021-2022\HK1\Doluong_vaDieukhienbangmaytinh\BTL1\NVL_BTLDoluong\NVL_BTLDoluong\bin\Debug\CircularProgressBar.xml
+E:\File Of LaoF\3.TERM_2021-2022\HK1\Doluong_vaDieukhienbangmaytinh\BTL1\NVL_BTLDoluong\NVL_BTLDoluong\obj\Debug\NVL_BTLDoluong.csproj.CopyComplete
+E:\File Of LaoF\3.TERM_2021-2022\HK1\Doluong_vaDieukhienbangmaytinh\BTL1\BTLDoluong\giaodien\NVL_BTLDoluong\bin\Debug\NVL_BTLDoluong.exe.config
+E:\File Of LaoF\3.TERM_2021-2022\HK1\Doluong_vaDieukhienbangmaytinh\BTL1\BTLDoluong\giaodien\NVL_BTLDoluong\bin\Debug\NVL_BTLDoluong.exe
+E:\File Of LaoF\3.TERM_2021-2022\HK1\Doluong_vaDieukhienbangmaytinh\BTL1\BTLDoluong\giaodien\NVL_BTLDoluong\bin\Debug\NVL_BTLDoluong.pdb
+E:\File Of LaoF\3.TERM_2021-2022\HK1\Doluong_vaDieukhienbangmaytinh\BTL1\BTLDoluong\giaodien\NVL_BTLDoluong\bin\Debug\CircularProgressBar.dll
+E:\File Of LaoF\3.TERM_2021-2022\HK1\Doluong_vaDieukhienbangmaytinh\BTL1\BTLDoluong\giaodien\NVL_BTLDoluong\bin\Debug\WinFormAnimation.dll
+E:\File Of LaoF\3.TERM_2021-2022\HK1\Doluong_vaDieukhienbangmaytinh\BTL1\BTLDoluong\giaodien\NVL_BTLDoluong\obj\Debug\NVL_BTLDoluong.csproj.AssemblyReference.cache
+E:\File Of LaoF\3.TERM_2021-2022\HK1\Doluong_vaDieukhienbangmaytinh\BTL1\BTLDoluong\giaodien\NVL_BTLDoluong\obj\Debug\NVL_BTLDoluong.Form1.resources
+E:\File Of LaoF\3.TERM_2021-2022\HK1\Doluong_vaDieukhienbangmaytinh\BTL1\BTLDoluong\giaodien\NVL_BTLDoluong\obj\Debug\NVL_BTLDoluong.Properties.Resources.resources
+E:\File Of LaoF\3.TERM_2021-2022\HK1\Doluong_vaDieukhienbangmaytinh\BTL1\BTLDoluong\giaodien\NVL_BTLDoluong\obj\Debug\NVL_BTLDoluong.csproj.GenerateResource.cache
+E:\File Of LaoF\3.TERM_2021-2022\HK1\Doluong_vaDieukhienbangmaytinh\BTL1\BTLDoluong\giaodien\NVL_BTLDoluong\obj\Debug\NVL_BTLDoluong.csproj.CoreCompileInputs.cache
+E:\File Of LaoF\3.TERM_2021-2022\HK1\Doluong_vaDieukhienbangmaytinh\BTL1\BTLDoluong\giaodien\NVL_BTLDoluong\obj\Debug\NVL_BTLDoluong.csproj.CopyComplete
+E:\File Of LaoF\3.TERM_2021-2022\HK1\Doluong_vaDieukhienbangmaytinh\BTL1\BTLDoluong\giaodien\NVL_BTLDoluong\obj\Debug\NVL_BTLDoluong.exe
+E:\File Of LaoF\3.TERM_2021-2022\HK1\Doluong_vaDieukhienbangmaytinh\BTL1\BTLDoluong\giaodien\NVL_BTLDoluong\obj\Debug\NVL_BTLDoluong.pdb
+C:\Users\hoang\OneDrive\Tài liệu\TD19CLC\BTLDoluong\Giaodien\NVL_BTLDoluong\bin\Debug\NVL_BTLDoluong.exe.config
+C:\Users\hoang\OneDrive\Tài liệu\TD19CLC\BTLDoluong\Giaodien\NVL_BTLDoluong\bin\Debug\NVL_BTLDoluong.exe
+C:\Users\hoang\OneDrive\Tài liệu\TD19CLC\BTLDoluong\Giaodien\NVL_BTLDoluong\bin\Debug\NVL_BTLDoluong.pdb
+C:\Users\hoang\OneDrive\Tài liệu\TD19CLC\BTLDoluong\Giaodien\NVL_BTLDoluong\bin\Debug\CircularProgressBar.dll
+C:\Users\hoang\OneDrive\Tài liệu\TD19CLC\BTLDoluong\Giaodien\NVL_BTLDoluong\bin\Debug\WinFormAnimation.dll
+C:\Users\hoang\OneDrive\Tài liệu\TD19CLC\BTLDoluong\Giaodien\NVL_BTLDoluong\bin\Debug\CircularProgressBar.xml
+C:\Users\hoang\OneDrive\Tài liệu\TD19CLC\BTLDoluong\Giaodien\NVL_BTLDoluong\obj\Debug\NVL_BTLDoluong.csproj.AssemblyReference.cache
+C:\Users\hoang\OneDrive\Tài liệu\TD19CLC\BTLDoluong\Giaodien\NVL_BTLDoluong\obj\Debug\NVL_BTLDoluong.Form1.resources
+C:\Users\hoang\OneDrive\Tài liệu\TD19CLC\BTLDoluong\Giaodien\NVL_BTLDoluong\obj\Debug\NVL_BTLDoluong.Properties.Resources.resources
+C:\Users\hoang\OneDrive\Tài liệu\TD19CLC\BTLDoluong\Giaodien\NVL_BTLDoluong\obj\Debug\NVL_BTLDoluong.csproj.GenerateResource.cache
+C:\Users\hoang\OneDrive\Tài liệu\TD19CLC\BTLDoluong\Giaodien\NVL_BTLDoluong\obj\Debug\NVL_BTLDoluong.csproj.CoreCompileInputs.cache
+C:\Users\hoang\OneDrive\Tài liệu\TD19CLC\BTLDoluong\Giaodien\NVL_BTLDoluong\obj\Debug\NVL_BTLDoluong.csproj.CopyComplete
+C:\Users\hoang\OneDrive\Tài liệu\TD19CLC\BTLDoluong\Giaodien\NVL_BTLDoluong\obj\Debug\NVL_BTLDoluong.exe
+C:\Users\hoang\OneDrive\Tài liệu\TD19CLC\BTLDoluong\Giaodien\NVL_BTLDoluong\obj\Debug\NVL_BTLDoluong.pdb
+E:\File Of LaoF\3.TERM_2021-2022\HK1\Doluong_vaDieukhienbangmaytinh\BTL1\BAITAPLON_NHOM1_TD19CLC\BAOCAO_BTL_GIAODIEN_NHOM1_TD19CLC\NVL_BTLDoluong\bin\Debug\NVL_BTLDoluong.exe.config
+E:\File Of LaoF\3.TERM_2021-2022\HK1\Doluong_vaDieukhienbangmaytinh\BTL1\BAITAPLON_NHOM1_TD19CLC\BAOCAO_BTL_GIAODIEN_NHOM1_TD19CLC\NVL_BTLDoluong\bin\Debug\NVL_BTLDoluong.exe
+E:\File Of LaoF\3.TERM_2021-2022\HK1\Doluong_vaDieukhienbangmaytinh\BTL1\BAITAPLON_NHOM1_TD19CLC\BAOCAO_BTL_GIAODIEN_NHOM1_TD19CLC\NVL_BTLDoluong\bin\Debug\NVL_BTLDoluong.pdb
+E:\File Of LaoF\3.TERM_2021-2022\HK1\Doluong_vaDieukhienbangmaytinh\BTL1\BAITAPLON_NHOM1_TD19CLC\BAOCAO_BTL_GIAODIEN_NHOM1_TD19CLC\NVL_BTLDoluong\bin\Debug\CircularProgressBar.dll
+E:\File Of LaoF\3.TERM_2021-2022\HK1\Doluong_vaDieukhienbangmaytinh\BTL1\BAITAPLON_NHOM1_TD19CLC\BAOCAO_BTL_GIAODIEN_NHOM1_TD19CLC\NVL_BTLDoluong\bin\Debug\WinFormAnimation.dll
+E:\File Of LaoF\3.TERM_2021-2022\HK1\Doluong_vaDieukhienbangmaytinh\BTL1\BAITAPLON_NHOM1_TD19CLC\BAOCAO_BTL_GIAODIEN_NHOM1_TD19CLC\NVL_BTLDoluong\bin\Debug\CircularProgressBar.xml
+E:\File Of LaoF\3.TERM_2021-2022\HK1\Doluong_vaDieukhienbangmaytinh\BTL1\BAITAPLON_NHOM1_TD19CLC\BAOCAO_BTL_GIAODIEN_NHOM1_TD19CLC\NVL_BTLDoluong\obj\Debug\NVL_BTLDoluong.csproj.AssemblyReference.cache
+E:\File Of LaoF\3.TERM_2021-2022\HK1\Doluong_vaDieukhienbangmaytinh\BTL1\BAITAPLON_NHOM1_TD19CLC\BAOCAO_BTL_GIAODIEN_NHOM1_TD19CLC\NVL_BTLDoluong\obj\Debug\NVL_BTLDoluong.Form1.resources
+E:\File Of LaoF\3.TERM_2021-2022\HK1\Doluong_vaDieukhienbangmaytinh\BTL1\BAITAPLON_NHOM1_TD19CLC\BAOCAO_BTL_GIAODIEN_NHOM1_TD19CLC\NVL_BTLDoluong\obj\Debug\NVL_BTLDoluong.Properties.Resources.resources
+E:\File Of LaoF\3.TERM_2021-2022\HK1\Doluong_vaDieukhienbangmaytinh\BTL1\BAITAPLON_NHOM1_TD19CLC\BAOCAO_BTL_GIAODIEN_NHOM1_TD19CLC\NVL_BTLDoluong\obj\Debug\NVL_BTLDoluong.csproj.GenerateResource.cache
+E:\File Of LaoF\3.TERM_2021-2022\HK1\Doluong_vaDieukhienbangmaytinh\BTL1\BAITAPLON_NHOM1_TD19CLC\BAOCAO_BTL_GIAODIEN_NHOM1_TD19CLC\NVL_BTLDoluong\obj\Debug\NVL_BTLDoluong.csproj.CoreCompileInputs.cache
+E:\File Of LaoF\3.TERM_2021-2022\HK1\Doluong_vaDieukhienbangmaytinh\BTL1\BAITAPLON_NHOM1_TD19CLC\BAOCAO_BTL_GIAODIEN_NHOM1_TD19CLC\NVL_BTLDoluong\obj\Debug\NVL_BTLDoluong.csproj.CopyComplete
+E:\File Of LaoF\3.TERM_2021-2022\HK1\Doluong_vaDieukhienbangmaytinh\BTL1\BAITAPLON_NHOM1_TD19CLC\BAOCAO_BTL_GIAODIEN_NHOM1_TD19CLC\NVL_BTLDoluong\obj\Debug\NVL_BTLDoluong.exe
+E:\File Of LaoF\3.TERM_2021-2022\HK1\Doluong_vaDieukhienbangmaytinh\BTL1\BAITAPLON_NHOM1_TD19CLC\BAOCAO_BTL_GIAODIEN_NHOM1_TD19CLC\NVL_BTLDoluong\obj\Debug\NVL_BTLDoluong.pdb
+D:\Learning_Document\Term 6\DoluongvaDieukhienbangPC\BAITAPLON_NHOM4_TD19CLC\BAOCAO_BTL_GIAODIEN_NHOM4_TD19CLC\NVL_BTLDoluong\bin\Debug\NVL_BTLDoluong.exe.config
+D:\Learning_Document\Term 6\DoluongvaDieukhienbangPC\BAITAPLON_NHOM4_TD19CLC\BAOCAO_BTL_GIAODIEN_NHOM4_TD19CLC\NVL_BTLDoluong\bin\Debug\NVL_BTLDoluong.exe
+D:\Learning_Document\Term 6\DoluongvaDieukhienbangPC\BAITAPLON_NHOM4_TD19CLC\BAOCAO_BTL_GIAODIEN_NHOM4_TD19CLC\NVL_BTLDoluong\bin\Debug\NVL_BTLDoluong.pdb
+D:\Learning_Document\Term 6\DoluongvaDieukhienbangPC\BAITAPLON_NHOM4_TD19CLC\BAOCAO_BTL_GIAODIEN_NHOM4_TD19CLC\NVL_BTLDoluong\bin\Debug\CircularProgressBar.dll
+D:\Learning_Document\Term 6\DoluongvaDieukhienbangPC\BAITAPLON_NHOM4_TD19CLC\BAOCAO_BTL_GIAODIEN_NHOM4_TD19CLC\NVL_BTLDoluong\bin\Debug\WinFormAnimation.dll
+D:\Learning_Document\Term 6\DoluongvaDieukhienbangPC\BAITAPLON_NHOM4_TD19CLC\BAOCAO_BTL_GIAODIEN_NHOM4_TD19CLC\NVL_BTLDoluong\bin\Debug\CircularProgressBar.xml
+D:\Learning_Document\Term 6\DoluongvaDieukhienbangPC\BAITAPLON_NHOM4_TD19CLC\BAOCAO_BTL_GIAODIEN_NHOM4_TD19CLC\NVL_BTLDoluong\obj\Debug\NVL_BTLDoluong.csproj.AssemblyReference.cache
+D:\Learning_Document\Term 6\DoluongvaDieukhienbangPC\BAITAPLON_NHOM4_TD19CLC\BAOCAO_BTL_GIAODIEN_NHOM4_TD19CLC\NVL_BTLDoluong\obj\Debug\NVL_BTLDoluong.csproj.SuggestedBindingRedirects.cache
+D:\Learning_Document\Term 6\DoluongvaDieukhienbangPC\BAITAPLON_NHOM4_TD19CLC\BAOCAO_BTL_GIAODIEN_NHOM4_TD19CLC\NVL_BTLDoluong\obj\Debug\NVL_BTLDoluong.Form1.resources
+D:\Learning_Document\Term 6\DoluongvaDieukhienbangPC\BAITAPLON_NHOM4_TD19CLC\BAOCAO_BTL_GIAODIEN_NHOM4_TD19CLC\NVL_BTLDoluong\obj\Debug\NVL_BTLDoluong.Properties.Resources.resources
+D:\Learning_Document\Term 6\DoluongvaDieukhienbangPC\BAITAPLON_NHOM4_TD19CLC\BAOCAO_BTL_GIAODIEN_NHOM4_TD19CLC\NVL_BTLDoluong\obj\Debug\NVL_BTLDoluong.csproj.GenerateResource.cache
+D:\Learning_Document\Term 6\DoluongvaDieukhienbangPC\BAITAPLON_NHOM4_TD19CLC\BAOCAO_BTL_GIAODIEN_NHOM4_TD19CLC\NVL_BTLDoluong\obj\Debug\NVL_BTLDoluong.csproj.CoreCompileInputs.cache
+D:\Learning_Document\Term 6\DoluongvaDieukhienbangPC\BAITAPLON_NHOM4_TD19CLC\BAOCAO_BTL_GIAODIEN_NHOM4_TD19CLC\NVL_BTLDoluong\obj\Debug\NVL_BTLDoluong.csproj.CopyComplete
+D:\Learning_Document\Term 6\DoluongvaDieukhienbangPC\BAITAPLON_NHOM4_TD19CLC\BAOCAO_BTL_GIAODIEN_NHOM4_TD19CLC\NVL_BTLDoluong\obj\Debug\NVL_BTLDoluong.exe
+D:\Learning_Document\Term 6\DoluongvaDieukhienbangPC\BAITAPLON_NHOM4_TD19CLC\BAOCAO_BTL_GIAODIEN_NHOM4_TD19CLC\NVL_BTLDoluong\obj\Debug\NVL_BTLDoluong.pdb
+C:\Users\Admin\Desktop\BAITAPLON_NHOM4_TD19CLC\BAOCAO_BTL_GIAODIEN_NHOM4_TD19CLC\NVL_BTLDoluong\bin\Debug\NVL_BTLDoluong.exe.config
+C:\Users\Admin\Desktop\BAITAPLON_NHOM4_TD19CLC\BAOCAO_BTL_GIAODIEN_NHOM4_TD19CLC\NVL_BTLDoluong\bin\Debug\NVL_BTLDoluong.exe
+C:\Users\Admin\Desktop\BAITAPLON_NHOM4_TD19CLC\BAOCAO_BTL_GIAODIEN_NHOM4_TD19CLC\NVL_BTLDoluong\bin\Debug\NVL_BTLDoluong.pdb
+C:\Users\Admin\Desktop\BAITAPLON_NHOM4_TD19CLC\BAOCAO_BTL_GIAODIEN_NHOM4_TD19CLC\NVL_BTLDoluong\bin\Debug\CircularProgressBar.dll
+C:\Users\Admin\Desktop\BAITAPLON_NHOM4_TD19CLC\BAOCAO_BTL_GIAODIEN_NHOM4_TD19CLC\NVL_BTLDoluong\bin\Debug\WinFormAnimation.dll
+C:\Users\Admin\Desktop\BAITAPLON_NHOM4_TD19CLC\BAOCAO_BTL_GIAODIEN_NHOM4_TD19CLC\NVL_BTLDoluong\bin\Debug\CircularProgressBar.xml
+C:\Users\Admin\Desktop\BAITAPLON_NHOM4_TD19CLC\BAOCAO_BTL_GIAODIEN_NHOM4_TD19CLC\NVL_BTLDoluong\obj\Debug\NVL_BTLDoluong.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\BAITAPLON_NHOM4_TD19CLC\BAOCAO_BTL_GIAODIEN_NHOM4_TD19CLC\NVL_BTLDoluong\obj\Debug\NVL_BTLDoluong.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\BAITAPLON_NHOM4_TD19CLC\BAOCAO_BTL_GIAODIEN_NHOM4_TD19CLC\NVL_BTLDoluong\obj\Debug\NVL_BTLDoluong.Form1.resources
+C:\Users\Admin\Desktop\BAITAPLON_NHOM4_TD19CLC\BAOCAO_BTL_GIAODIEN_NHOM4_TD19CLC\NVL_BTLDoluong\obj\Debug\NVL_BTLDoluong.Properties.Resources.resources
+C:\Users\Admin\Desktop\BAITAPLON_NHOM4_TD19CLC\BAOCAO_BTL_GIAODIEN_NHOM4_TD19CLC\NVL_BTLDoluong\obj\Debug\NVL_BTLDoluong.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\BAITAPLON_NHOM4_TD19CLC\BAOCAO_BTL_GIAODIEN_NHOM4_TD19CLC\NVL_BTLDoluong\obj\Debug\NVL_BTLDoluong.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\BAITAPLON_NHOM4_TD19CLC\BAOCAO_BTL_GIAODIEN_NHOM4_TD19CLC\NVL_BTLDoluong\obj\Debug\NVL_BTLDoluong.csproj.CopyComplete
+C:\Users\Admin\Desktop\BAITAPLON_NHOM4_TD19CLC\BAOCAO_BTL_GIAODIEN_NHOM4_TD19CLC\NVL_BTLDoluong\obj\Debug\NVL_BTLDoluong.exe
+C:\Users\Admin\Desktop\BAITAPLON_NHOM4_TD19CLC\BAOCAO_BTL_GIAODIEN_NHOM4_TD19CLC\NVL_BTLDoluong\obj\Debug\NVL_BTLDoluong.pdb
+C:\Users\Admin\Desktop\BAITAPLON_NHOM9_TD19\BAOCAO_BTL_GIAODIEN_NHOM4_TD19CLC\NVL_BTLDoluong\bin\Debug\NVL_BTLDoluong.exe.config
+C:\Users\Admin\Desktop\BAITAPLON_NHOM9_TD19\BAOCAO_BTL_GIAODIEN_NHOM4_TD19CLC\NVL_BTLDoluong\bin\Debug\NVL_BTLDoluong.exe
+C:\Users\Admin\Desktop\BAITAPLON_NHOM9_TD19\BAOCAO_BTL_GIAODIEN_NHOM4_TD19CLC\NVL_BTLDoluong\bin\Debug\NVL_BTLDoluong.pdb
+C:\Users\Admin\Desktop\BAITAPLON_NHOM9_TD19\BAOCAO_BTL_GIAODIEN_NHOM4_TD19CLC\NVL_BTLDoluong\bin\Debug\CircularProgressBar.dll
+C:\Users\Admin\Desktop\BAITAPLON_NHOM9_TD19\BAOCAO_BTL_GIAODIEN_NHOM4_TD19CLC\NVL_BTLDoluong\bin\Debug\WinFormAnimation.dll
+C:\Users\Admin\Desktop\BAITAPLON_NHOM9_TD19\BAOCAO_BTL_GIAODIEN_NHOM4_TD19CLC\NVL_BTLDoluong\bin\Debug\CircularProgressBar.xml
+C:\Users\Admin\Desktop\BAITAPLON_NHOM9_TD19\BAOCAO_BTL_GIAODIEN_NHOM4_TD19CLC\NVL_BTLDoluong\obj\Debug\NVL_BTLDoluong.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\BAITAPLON_NHOM9_TD19\BAOCAO_BTL_GIAODIEN_NHOM4_TD19CLC\NVL_BTLDoluong\obj\Debug\NVL_BTLDoluong.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\BAITAPLON_NHOM9_TD19\BAOCAO_BTL_GIAODIEN_NHOM4_TD19CLC\NVL_BTLDoluong\obj\Debug\NVL_BTLDoluong.Form1.resources
+C:\Users\Admin\Desktop\BAITAPLON_NHOM9_TD19\BAOCAO_BTL_GIAODIEN_NHOM4_TD19CLC\NVL_BTLDoluong\obj\Debug\NVL_BTLDoluong.Properties.Resources.resources
+C:\Users\Admin\Desktop\BAITAPLON_NHOM9_TD19\BAOCAO_BTL_GIAODIEN_NHOM4_TD19CLC\NVL_BTLDoluong\obj\Debug\NVL_BTLDoluong.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\BAITAPLON_NHOM9_TD19\BAOCAO_BTL_GIAODIEN_NHOM4_TD19CLC\NVL_BTLDoluong\obj\Debug\NVL_BTLDoluong.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\BAITAPLON_NHOM9_TD19\BAOCAO_BTL_GIAODIEN_NHOM4_TD19CLC\NVL_BTLDoluong\obj\Debug\NVL_BTLDoluong.csproj.CopyComplete
+C:\Users\Admin\Desktop\BAITAPLON_NHOM9_TD19\BAOCAO_BTL_GIAODIEN_NHOM4_TD19CLC\NVL_BTLDoluong\obj\Debug\NVL_BTLDoluong.exe
+C:\Users\Admin\Desktop\BAITAPLON_NHOM9_TD19\BAOCAO_BTL_GIAODIEN_NHOM4_TD19CLC\NVL_BTLDoluong\obj\Debug\NVL_BTLDoluong.pdb
+C:\Users\Admin\Desktop\BAITAPLON_NHOM9_TD19 - Copy\BAOCAO_BTL_GIAODIEN_NHOM4_TD19CLC\NVL_BTLDoluong\obj\Debug\NVL_BTLDoluong.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\BAITAPLON_NHOM9_TD19 - Copy\BAOCAO_BTL_GIAODIEN_NHOM4_TD19CLC\NVL_BTLDoluong\obj\Debug\NVL_BTLDoluong.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\BAITAPLON_NHOM9_TD19 - Copy\BAOCAO_BTL_GIAODIEN_NHOM4_TD19CLC\NVL_BTLDoluong\obj\Debug\NVL_BTLDoluong.Form1.resources
+C:\Users\Admin\Desktop\BAITAPLON_NHOM9_TD19 - Copy\BAOCAO_BTL_GIAODIEN_NHOM4_TD19CLC\NVL_BTLDoluong\obj\Debug\NVL_BTLDoluong.Properties.Resources.resources
+C:\Users\Admin\Desktop\BAITAPLON_NHOM9_TD19 - Copy\BAOCAO_BTL_GIAODIEN_NHOM4_TD19CLC\NVL_BTLDoluong\obj\Debug\NVL_BTLDoluong.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\BAITAPLON_NHOM9_TD19 - Copy\BAOCAO_BTL_GIAODIEN_NHOM4_TD19CLC\NVL_BTLDoluong\obj\Debug\NVL_BTLDoluong.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\BAITAPLON_NHOM9_TD19 - Copy\BAOCAO_BTL_GIAODIEN_NHOM4_TD19CLC\NVL_BTLDoluong\obj\Debug\NVL_BTLDoluong.exe
+C:\Users\Admin\Desktop\BAITAPLON_NHOM9_TD19 - Copy\BAOCAO_BTL_GIAODIEN_NHOM4_TD19CLC\NVL_BTLDoluong\obj\Debug\NVL_BTLDoluong.pdb
+C:\Users\Admin\Desktop\BAITAPLON_NHOM9_TD19 - Copy\BAOCAO_BTL_GIAODIEN_NHOM4_TD19CLC\NVL_BTLDoluong\bin\Debug\NVL_BTLDoluong.exe.config
+C:\Users\Admin\Desktop\BAITAPLON_NHOM9_TD19 - Copy\BAOCAO_BTL_GIAODIEN_NHOM4_TD19CLC\NVL_BTLDoluong\bin\Debug\NVL_BTLDoluong.exe
+C:\Users\Admin\Desktop\BAITAPLON_NHOM9_TD19 - Copy\BAOCAO_BTL_GIAODIEN_NHOM4_TD19CLC\NVL_BTLDoluong\bin\Debug\NVL_BTLDoluong.pdb
+C:\Users\Admin\Desktop\BAITAPLON_NHOM9_TD19 - Copy\BAOCAO_BTL_GIAODIEN_NHOM4_TD19CLC\NVL_BTLDoluong\bin\Debug\CircularProgressBar.dll
+C:\Users\Admin\Desktop\BAITAPLON_NHOM9_TD19 - Copy\BAOCAO_BTL_GIAODIEN_NHOM4_TD19CLC\NVL_BTLDoluong\bin\Debug\WinFormAnimation.dll
+C:\Users\Admin\Desktop\BAITAPLON_NHOM9_TD19 - Copy\BAOCAO_BTL_GIAODIEN_NHOM4_TD19CLC\NVL_BTLDoluong\bin\Debug\CircularProgressBar.xml
+C:\Users\Admin\Desktop\BAITAPLON_NHOM9_TD19 - Copy\BAOCAO_BTL_GIAODIEN_NHOM4_TD19CLC\NVL_BTLDoluong\obj\Debug\NVL_BTLDoluong.csproj.CopyComplete
+C:\Users\Admin\Desktop\BAITAPLON_NHOM9_TD19 - Copy\BAOCAO_BTL_GIAODIEN_NHOM9_TD19\NVL_BTLDoluong\bin\Debug\NVL_BTLDoluong.exe.config
+C:\Users\Admin\Desktop\BAITAPLON_NHOM9_TD19 - Copy\BAOCAO_BTL_GIAODIEN_NHOM9_TD19\NVL_BTLDoluong\bin\Debug\NVL_BTLDoluong.exe
+C:\Users\Admin\Desktop\BAITAPLON_NHOM9_TD19 - Copy\BAOCAO_BTL_GIAODIEN_NHOM9_TD19\NVL_BTLDoluong\bin\Debug\NVL_BTLDoluong.pdb
+C:\Users\Admin\Desktop\BAITAPLON_NHOM9_TD19 - Copy\BAOCAO_BTL_GIAODIEN_NHOM9_TD19\NVL_BTLDoluong\bin\Debug\CircularProgressBar.dll
+C:\Users\Admin\Desktop\BAITAPLON_NHOM9_TD19 - Copy\BAOCAO_BTL_GIAODIEN_NHOM9_TD19\NVL_BTLDoluong\bin\Debug\WinFormAnimation.dll
+C:\Users\Admin\Desktop\BAITAPLON_NHOM9_TD19 - Copy\BAOCAO_BTL_GIAODIEN_NHOM9_TD19\NVL_BTLDoluong\bin\Debug\CircularProgressBar.xml
+C:\Users\Admin\Desktop\BAITAPLON_NHOM9_TD19 - Copy\BAOCAO_BTL_GIAODIEN_NHOM9_TD19\NVL_BTLDoluong\obj\Debug\NVL_BTLDoluong.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\BAITAPLON_NHOM9_TD19 - Copy\BAOCAO_BTL_GIAODIEN_NHOM9_TD19\NVL_BTLDoluong\obj\Debug\NVL_BTLDoluong.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\BAITAPLON_NHOM9_TD19 - Copy\BAOCAO_BTL_GIAODIEN_NHOM9_TD19\NVL_BTLDoluong\obj\Debug\NVL_BTLDoluong.Form1.resources
+C:\Users\Admin\Desktop\BAITAPLON_NHOM9_TD19 - Copy\BAOCAO_BTL_GIAODIEN_NHOM9_TD19\NVL_BTLDoluong\obj\Debug\NVL_BTLDoluong.Properties.Resources.resources
+C:\Users\Admin\Desktop\BAITAPLON_NHOM9_TD19 - Copy\BAOCAO_BTL_GIAODIEN_NHOM9_TD19\NVL_BTLDoluong\obj\Debug\NVL_BTLDoluong.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\BAITAPLON_NHOM9_TD19 - Copy\BAOCAO_BTL_GIAODIEN_NHOM9_TD19\NVL_BTLDoluong\obj\Debug\NVL_BTLDoluong.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\BAITAPLON_NHOM9_TD19 - Copy\BAOCAO_BTL_GIAODIEN_NHOM9_TD19\NVL_BTLDoluong\obj\Debug\NVL_BTLDoluong.csproj.CopyComplete
+C:\Users\Admin\Desktop\BAITAPLON_NHOM9_TD19 - Copy\BAOCAO_BTL_GIAODIEN_NHOM9_TD19\NVL_BTLDoluong\obj\Debug\NVL_BTLDoluong.exe
+C:\Users\Admin\Desktop\BAITAPLON_NHOM9_TD19 - Copy\BAOCAO_BTL_GIAODIEN_NHOM9_TD19\NVL_BTLDoluong\obj\Debug\NVL_BTLDoluong.pdb
+C:\Users\Admin\Desktop\BAITAPLON_NHOM9_TD19 - V1\BAOCAO_BTL_GIAODIEN_NHOM9_TD19\NVL_BTLDoluong\obj\Debug\NVL_BTLDoluong.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\BAITAPLON_NHOM9_TD19 - V1\BAOCAO_BTL_GIAODIEN_NHOM9_TD19\NVL_BTLDoluong\obj\Debug\NVL_BTLDoluong.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\BAITAPLON_NHOM9_TD19 - V1\BAOCAO_BTL_GIAODIEN_NHOM9_TD19\NVL_BTLDoluong\obj\Debug\NVL_BTLDoluong.Form1.resources
+C:\Users\Admin\Desktop\BAITAPLON_NHOM9_TD19 - V1\BAOCAO_BTL_GIAODIEN_NHOM9_TD19\NVL_BTLDoluong\obj\Debug\NVL_BTLDoluong.Properties.Resources.resources
+C:\Users\Admin\Desktop\BAITAPLON_NHOM9_TD19 - V1\BAOCAO_BTL_GIAODIEN_NHOM9_TD19\NVL_BTLDoluong\obj\Debug\NVL_BTLDoluong.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\BAITAPLON_NHOM9_TD19 - V1\BAOCAO_BTL_GIAODIEN_NHOM9_TD19\NVL_BTLDoluong\obj\Debug\NVL_BTLDoluong.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\BAITAPLON_NHOM9_TD19 - V1\BAOCAO_BTL_GIAODIEN_NHOM9_TD19\NVL_BTLDoluong\obj\Debug\NVL_BTLDoluong.exe
+C:\Users\Admin\Desktop\BAITAPLON_NHOM9_TD19 - V1\BAOCAO_BTL_GIAODIEN_NHOM9_TD19\NVL_BTLDoluong\obj\Debug\NVL_BTLDoluong.pdb
+C:\Users\Admin\Desktop\BAITAPLON_NHOM9_TD19 - V1\BAOCAO_BTL_GIAODIEN_NHOM9_TD19\NVL_BTLDoluong\bin\Debug\NVL_BTLDoluong.exe.config
+C:\Users\Admin\Desktop\BAITAPLON_NHOM9_TD19 - V1\BAOCAO_BTL_GIAODIEN_NHOM9_TD19\NVL_BTLDoluong\bin\Debug\NVL_BTLDoluong.exe
+C:\Users\Admin\Desktop\BAITAPLON_NHOM9_TD19 - V1\BAOCAO_BTL_GIAODIEN_NHOM9_TD19\NVL_BTLDoluong\bin\Debug\NVL_BTLDoluong.pdb
+C:\Users\Admin\Desktop\BAITAPLON_NHOM9_TD19 - V1\BAOCAO_BTL_GIAODIEN_NHOM9_TD19\NVL_BTLDoluong\bin\Debug\CircularProgressBar.dll
+C:\Users\Admin\Desktop\BAITAPLON_NHOM9_TD19 - V1\BAOCAO_BTL_GIAODIEN_NHOM9_TD19\NVL_BTLDoluong\bin\Debug\WinFormAnimation.dll
+C:\Users\Admin\Desktop\BAITAPLON_NHOM9_TD19 - V1\BAOCAO_BTL_GIAODIEN_NHOM9_TD19\NVL_BTLDoluong\bin\Debug\CircularProgressBar.xml
+C:\Users\Admin\Desktop\BAITAPLON_NHOM9_TD19 - V1\BAOCAO_BTL_GIAODIEN_NHOM9_TD19\NVL_BTLDoluong\obj\Debug\NVL_BTLDoluong.csproj.CopyComplete
